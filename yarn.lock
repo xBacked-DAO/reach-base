@@ -892,9 +892,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 delayed-stream@~1.0.0:
   version "1.0.0"
@@ -1265,9 +1265,10 @@ isarray@^2.0.1:
   resolved "https://registry.yarnpkg.com/isarray/-/isarray-2.0.5.tgz#8af1e4c1221244cc62459faf38940d4e644a5723"
   integrity sha512-xHjhDr3cNBK0BzdUJSPXZntQUx/mwMS5Rw4A7lPJ90XGAO6ISP/ePDNuo0vhqOZU+UD5JoodwCAAoZQd3FeAKw==
 
-"js-conflux-sdk@git+https://github.com/reach-sh/js-conflux-sdk.git#v1_6_0_blockNumber":
+"js-conflux-sdk@git+https://github.com/reach-sh/js-conflux-sdk#v1_6_0_blockNumber":
   version "1.6.0"
-  resolved "git+https://github.com/reach-sh/js-conflux-sdk.git#6df5f0538c2077a7e29f0be08205b937499a1040"
+  uid "6df5f0538c2077a7e29f0be08205b937499a1040"
+  resolved "git+https://github.com/reach-sh/js-conflux-sdk#6df5f0538c2077a7e29f0be08205b937499a1040"
   dependencies:
     "@babel/runtime" "^7.8.4"
     "@conflux-dev/conflux-address-js" "^1.0.0"
